@@ -1,0 +1,10 @@
+2024-09-01 12:00:01 ERROR Failed to connect to the database
+2024-09-01 12:01:15 INFO User logged in: user_id=1234
+2024-09-01 12:02:37 WARNING Disk space low: 5% remaining
+2024-09-01 12:03:45 INFO Data synchronization completed
+2024-09-01 12:05:21 ERROR Unable to read configuration file
+2024-09-01 12:06:12 INFO User logged out: user_id=1234
+2024-09-01 12:07:48 WARNING Memory usage high: 85%
+2024-09-01 12:08:54 INFO Scheduled backup started
+2024-09-01 12:10:00 ERROR Backup failed: disk full
+2024-09-01 12:11:13 INFO Scheduled backup completed with errors

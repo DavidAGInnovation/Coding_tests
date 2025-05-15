@@ -1,0 +1,12 @@
+product_id,name,category,price,stock,supplier_email
+P001,Laptop Pro,Electronics, $1200.50 , 25 ,SupplierA@Example.COM
+P002,Coffee Maker,Appliances,€75,15items,supplier.b@example.net
+P001,Laptop Pro X,Electronics,1250,10,SupplierA_New@Example.COM
+P003,Wireless Mouse,Electronics,25.99 USD,,contact@techstore.org
+P004,Office Chair,Furniture, 150.00 ,5 ,Sales@FurnitureWorld.Com
+P005,Desk Lamp,Furniture,30.5,invalid,help@lighting.co
+P006,"Book ""Ruby Deep Dive""",Books,£29.99,50,orders@BookPublishers.UK
+P007,T-Shirt,Apparel,15,100,INFO@CLOTHING.COM
+P008,  Tablet  ,  Electronics  , 299.00 , 10 ,  Support@DeviceCo.com
+P009,Product Nine,Category X, malformed price , 30 ,test9@example.com
+P010,Product Ten,Category Y,"1,234.56",12,test10@example.com

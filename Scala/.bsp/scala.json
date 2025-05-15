@@ -1,0 +1,27 @@
+{
+  "name": "scala",
+  "argv": [
+    "/Users/davidarnal/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/libexec/scala-cli",
+    "--cli-default-scala-version",
+    "3.7.0",
+    "--repository",
+    "file:///Users/davidarnal/Library/Caches/Coursier/arc/https/github.com/scala/scala3/releases/download/3.7.0/scala3-3.7.0-aarch64-apple-darwin.tar.gz/scala3-3.7.0-aarch64-apple-darwin/maven2",
+    "--prog-name",
+    "scala",
+    "--skip-cli-updates",
+    "bsp",
+    "--json-options",
+    "/Users/davidarnal/Downloads/invisible_coding/Scala/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/Users/davidarnal/Downloads/invisible_coding/Scala/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/Users/davidarnal/Downloads/invisible_coding/Scala/.scala-build/ide-envs.json",
+    "/Users/davidarnal/Downloads/invisible_coding/Scala/SimpleDatabase.scala"
+  ],
+  "version": "1.7.1",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}

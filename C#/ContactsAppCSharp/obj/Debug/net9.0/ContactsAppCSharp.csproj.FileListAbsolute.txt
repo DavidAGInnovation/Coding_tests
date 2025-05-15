@@ -1,0 +1,14 @@
+/Users/davidarnal/Downloads/invisible_coding/C#/ContactsAppCSharp/bin/Debug/net9.0/ContactsAppCSharp
+/Users/davidarnal/Downloads/invisible_coding/C#/ContactsAppCSharp/bin/Debug/net9.0/ContactsAppCSharp.deps.json
+/Users/davidarnal/Downloads/invisible_coding/C#/ContactsAppCSharp/bin/Debug/net9.0/ContactsAppCSharp.runtimeconfig.json
+/Users/davidarnal/Downloads/invisible_coding/C#/ContactsAppCSharp/bin/Debug/net9.0/ContactsAppCSharp.dll
+/Users/davidarnal/Downloads/invisible_coding/C#/ContactsAppCSharp/bin/Debug/net9.0/ContactsAppCSharp.pdb
+/Users/davidarnal/Downloads/invisible_coding/C#/ContactsAppCSharp/obj/Debug/net9.0/ContactsAppCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidarnal/Downloads/invisible_coding/C#/ContactsAppCSharp/obj/Debug/net9.0/ContactsAppCSharp.AssemblyInfoInputs.cache
+/Users/davidarnal/Downloads/invisible_coding/C#/ContactsAppCSharp/obj/Debug/net9.0/ContactsAppCSharp.AssemblyInfo.cs
+/Users/davidarnal/Downloads/invisible_coding/C#/ContactsAppCSharp/obj/Debug/net9.0/ContactsAppCSharp.csproj.CoreCompileInputs.cache
+/Users/davidarnal/Downloads/invisible_coding/C#/ContactsAppCSharp/obj/Debug/net9.0/ContactsAppCSharp.dll
+/Users/davidarnal/Downloads/invisible_coding/C#/ContactsAppCSharp/obj/Debug/net9.0/refint/ContactsAppCSharp.dll
+/Users/davidarnal/Downloads/invisible_coding/C#/ContactsAppCSharp/obj/Debug/net9.0/ContactsAppCSharp.pdb
+/Users/davidarnal/Downloads/invisible_coding/C#/ContactsAppCSharp/obj/Debug/net9.0/ContactsAppCSharp.genruntimeconfig.cache
+/Users/davidarnal/Downloads/invisible_coding/C#/ContactsAppCSharp/obj/Debug/net9.0/ref/ContactsAppCSharp.dll

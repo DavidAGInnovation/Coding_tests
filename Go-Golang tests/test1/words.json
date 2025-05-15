@@ -1,0 +1,50 @@
+{
+    "Nouns": [
+        "apple",
+        "car",
+        "book",
+        "dog",
+        "house",
+        "sun",
+        "tree",
+        "mountain",
+        "ocean",
+        "computer",
+        "river",
+        "cloud",
+        "chair",
+        "hat"
+    ],
+    "Numbers": [
+        1.5,
+        3.14,
+        7,
+        10.2,
+        5.5,
+        2,
+        8.7,
+        4.3,
+        6.1,
+        9.9,
+        42,
+        101,
+        0.5,
+        25
+    ],
+    "Adjectives": [
+        "beautiful",
+        "green",
+        "happy",
+        "small",
+        "fast",
+        "old",
+        "bright",
+        "loud",
+        "soft",
+        "brave",
+        "silly",
+        "curious",
+        "sparkling",
+        "round"
+    ]
+}

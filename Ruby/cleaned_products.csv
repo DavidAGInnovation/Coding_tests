@@ -1,0 +1,11 @@
+product_id,name,category,price,stock,supplier_email
+P001,Laptop Pro,Electronics,1200.50,25,suppliera@example.com
+P002,Coffee Maker,Appliances,75.00,0,supplier.b@example.net
+P003,Wireless Mouse,Electronics,25.99,0,contact@techstore.org
+P004,Office Chair,Furniture,150.00,5,sales@furnitureworld.com
+P005,Desk Lamp,Furniture,30.50,0,help@lighting.co
+P006,"Book ""Ruby Deep Dive""",Books,29.99,50,orders@bookpublishers.uk
+P007,T-Shirt,Apparel,15.00,100,info@clothing.com
+P008,Tablet,Electronics,299.00,10,support@deviceco.com
+P009,Product Nine,Category X,0.00,30,test9@example.com
+P010,Product Ten,Category Y,1234.56,12,test10@example.com

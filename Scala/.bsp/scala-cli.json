@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/Users/davidarnal/Library/Application Support/Coursier/bin/.scala-cli.aux",
+    "bsp",
+    "--json-options",
+    "/Users/davidarnal/Downloads/invisible_coding/Scala/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/Users/davidarnal/Downloads/invisible_coding/Scala/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/Users/davidarnal/Downloads/invisible_coding/Scala/.scala-build/ide-envs.json",
+    "/Users/davidarnal/Downloads/invisible_coding/Scala"
+  ],
+  "version": "1.8.0",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}

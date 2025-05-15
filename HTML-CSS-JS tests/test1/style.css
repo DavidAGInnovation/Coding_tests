@@ -1,0 +1,126 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.app-container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 500px;
+    text-align: center; /* Center header text */
+}
+
+header h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.input-container {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+#todo-input {
+    flex-grow: 1;
+    padding: 10px 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px; /* Rounded border for input */
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+#add-todo-btn {
+    padding: 10px 20px;
+    background-color: #5cb85c;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+#add-todo-btn:hover {
+    background-color: #4cae4c;
+}
+
+.list-container {
+    border: 1px solid #ddd;
+    border-radius: 8px; /* Rounded border for list container */
+    background-color: #f9f9f9;
+    padding: 10px;
+}
+
+#todo-list {
+    list-style: none;
+    padding: 0;
+}
+
+#todo-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 15px;
+    border-bottom: 1px solid #eee;
+    background-color: #fff;
+    margin-bottom: 5px; /* Space between items */
+    border-radius: 5px; /* Slightly rounded items */
+}
+
+#todo-list li:last-child {
+    border-bottom: none;
+}
+
+#todo-list li.completed span {
+    text-decoration: line-through;
+    color: #aaa;
+}
+
+#todo-list li span {
+    flex-grow: 1;
+    text-align: left;
+    cursor: pointer; /* For marking as complete */
+}
+
+#todo-list li .actions button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 1em;
+    margin-left: 8px;
+    padding: 5px;
+}
+
+#todo-list li .edit-btn {
+    color: #f0ad4e;
+}
+#todo-list li .edit-btn:hover {
+    color: #eea236;
+}
+
+#todo-list li .delete-btn {
+    color: #d9534f;
+}
+#todo-list li .delete-btn:hover {
+    color: #d43f3a;
+}
+
+/* Centering entire app on page */
+/* body is already flex and centering its direct child */
+/* app-container handles its internal centering and max-width */
